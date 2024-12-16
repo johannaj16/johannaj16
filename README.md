@@ -45,7 +45,7 @@ I leverage frameworks like **React**, **Node.js**, and **MongoDB** to create:
 
 ---
 
-### **[FreedomHER - Hackathon Project](https://github.com/johannaj16/FreedomHer)**  
+### **[FreedomHER - HackViolet 2024](https://github.com/johannaj16/FreedomHer)**  
 **Description**: A platform supporting victims of domestic violence through user-generated content and secure authentication.  
 **Technologies**: React, Node.js, MongoDB, TailwindCSS  
 **Key Features**:  
