@@ -1,5 +1,5 @@
 # Hi there, I'm Johanna Johnsen! 👋  
-![Johanna Johnsen](https://github.com/johannaj16/johannaj16/blob/main/profile.jpg)
+![Johanna Johnsen](https://github.com/johannaj16/johannaj16/blob/main/linkedin_profile_pic.jpg)
 
 ---
 
@@ -19,7 +19,7 @@ I specialize in:
 ### **Full-Stack Development**  
 I leverage frameworks like **React**, **Node.js**, and **MongoDB** to create:  
 - End-to-end web applications with a focus on user-friendly interfaces.  
-- Scalable solutions for community-driven platforms and enterprise-level tools.
+- Dependable solutions for community-driven platforms and enterprise-level tools.
 
 ---
 
