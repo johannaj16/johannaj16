@@ -1,7 +1,8 @@
-# Hi there, I'm Johanna Johnsen! 👋  
-![Johanna Johnsen](https://github.com/johannaj16/johannaj16/blob/main/linkedin_profile_pic.jpg)
-
----
+<p align="center">
+  <img width="640" height="361" alt="image" src="https://github.com/user-attachments/assets/151a1897-96ab-4e0a-b2aa-73fce64ca20d" />
+  <br/>
+  <sub><b>Hi there, I'm Johanna Johnsen!</b></sub>
+</p>
 
 ## About Me  
 I’m an aspiring **Backend or Full-Stack Software Developer** who enjoys building systems that are practical, reliable, and easy to use. I like working on projects where the code directly helps people — whether that’s making tools faster, simplifying how information is shared, or creating features that feel seamless. I’m also interested in using technology to bring people together and support solutions that make a positive impact in everyday life.
@@ -27,8 +28,10 @@ I leverage React, Node.js, and MongoDB to build end-to-end web applications with
 ## 🌟🌟🌟 Featured Repositories 🌟🌟🌟
 
 ### **[MarketMoves - Trading Simulator](https://github.com/johannaj16/marketmoves)**  
-**Description**: A finance app that gamifies trading by walking users through event-driven scenarios (e.g., geopolitical events) and simulating profit/loss outcomes.  
+**Description**: A finance app that gamifies trading by walking users through event-driven scenarios (e.g., geopolitical events) and simulating profit/loss outcomes. 
+
 **Technologies**: Python, FastAPI, React, Supabase, Alpaca API  
+
 **Key Features**:  
 - Event-based trading simulation with cross-university competition.  
 - Real-time leaderboard polling updates and persistent user state.  
@@ -36,9 +39,13 @@ I leverage React, Node.js, and MongoDB to build end-to-end web applications with
 
 ---
 
-### **[Clothespin - HackMIT 2025](https://github.com/hackmit25/clothespin)**  
-**Description**: A sustainable fashion app that allows users to track, lend, and borrow clothing items within a community.  
+### **[Clothespin - Best UX @ HackMIT 2025](https://github.com/hackmit25/clothespin)**  
+**Description**: A sustainable fashion app that allows users to track, lend, and borrow clothing items within a community. 
+
+The project won **1st place in UI/UX Design at HackMIT 2025!**
+
 **Technologies**: SwiftUI, Firebase, PyTorch
+
 **Key Features**:  
 - Closet management system with AI-driven clothing recognition.  
 - Community-based lending/borrowing model.  
@@ -48,7 +55,9 @@ I leverage React, Node.js, and MongoDB to build end-to-end web applications with
 
 ### **[FreedomHER - HackViolet 2024](https://github.com/johannaj16/FreedomHer)**  
 **Description**: A platform supporting victims of domestic violence through user-generated content and secure authentication.  
-**Technologies**: React, Node.js, MongoDB, TailwindCSS  
+
+**Technologies**: React, Node.js, MongoDB, TailwindCSS
+
 **Key Features**:  
 - End-to-end authentication system.  
 - User-driven, community-focused design.  
@@ -56,9 +65,11 @@ I leverage React, Node.js, and MongoDB to build end-to-end web applications with
 
 ---
 
-### **[SP-BTT Patent Classification](https://github.com/jaanvi-prabhakar/SP-BTT-Patent-Classification)**  
+### **[S&P Global Collaboration - Patent Classification System](https://github.com/jaanvi-prabhakar/SP-BTT-Patent-Classification)**  
 **Description**: A collaboration to classify patent abstracts into technology-specific categories using large language models and few-shot learning.  
+
 **Technologies**: Python, Gemini API, Pandas, Hugging Face Datasets  
+
 **Key Features**:  
 - Flexible classification system for future patent categories.  
 - Advanced NLP pipelines and data preprocessing.  
